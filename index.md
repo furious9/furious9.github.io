@@ -16,6 +16,6 @@ if true:
 Links to:
 - [GitHub](https://github.com/furious9)
 
-[pilastra@furious9.eu](mailto:pilastra@furious9.eu)
+Contact us at [pilastra@furious9.eu](mailto:pilastra@furious9.eu)
 
 Last update: 01. Oct 2020
