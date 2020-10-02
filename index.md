@@ -4,7 +4,7 @@ Zero bolota.
 
 ## News Board
 
-Dias desde que Juanes ficou indignado no F1: 1
+Jogadores online no Orion em qualquer instante: -1
 
 ## Hacks
 
