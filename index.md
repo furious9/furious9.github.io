@@ -3,8 +3,7 @@
 Zero bolota.
 
 ## News Board
-
-Jogadores online no Orion em qualquer instante: -1
+Recorde de dias que Guga não ficou triggado num jogo competitivo: 0
 
 ## Hacks
 
